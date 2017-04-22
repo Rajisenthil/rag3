@@ -10,7 +10,7 @@ cout<<"even";
 }
 else
 {
-cout<<"odd"
+cout<<"odd";
 }
 return 0;
 }
